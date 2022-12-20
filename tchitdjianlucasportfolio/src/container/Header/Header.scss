@@ -23,7 +23,7 @@
   @media screen and (min-width: 2000px) {
     padding-top: 8rem;
   }
-  @media screen and (min-width: 1200px) {
+  @media screen and (max-width: 1200px) {
     flex-direction: column;
   }
   @media screen and (max-width: 450px) {
